@@ -3,8 +3,13 @@ content_type: resource
 description: This lab exercise is intended to give the student practice working with
   the relationships you have seen derived in class before you are asked to analyze
   field data from the Baker River.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-163-surface-processes-and-landscape-evolution-fall-2004/e888974af939bfe26564f78da1710cc9_flow_mech_exer.pdf
+file: /media/courses/12-163-surface-processes-and-landscape-evolution-fall-2004/e888974af939bfe26564f78da1710cc9_flow_mech_exer.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: flow_mech_exer.pdf
 uid: e888974a-f939-bfe2-6564-f78da1710cc9

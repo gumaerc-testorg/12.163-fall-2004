@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Introductory lecture presentation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-163-surface-processes-and-landscape-evolution-fall-2004/3f96e78253cd28a4c8293e630fbfe0de_week1.pdf
+file: /media/courses/12-163-surface-processes-and-landscape-evolution-fall-2004/3f96e78253cd28a4c8293e630fbfe0de_week1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: week1.pdf
 uid: 3f96e782-53cd-28a4-c829-3e630fbfe0de

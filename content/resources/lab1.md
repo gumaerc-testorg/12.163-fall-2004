@@ -6,8 +6,13 @@ description: 'First lab exercise / field trip. The overall objective of this tri
   processes and landforms that will serve as a partial background motivation for this
   class ? we will introduce you to the range of problems and types of questions to
   which we will seek answers during the course.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-163-surface-processes-and-landscape-evolution-fall-2004/f7f7eacb9badaa660aa8adc86e559410_lab1.pdf
+file: /media/courses/12-163-surface-processes-and-landscape-evolution-fall-2004/f7f7eacb9badaa660aa8adc86e559410_lab1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: lab1.pdf
 uid: f7f7eacb-9bad-aa66-0aa8-adc86e559410

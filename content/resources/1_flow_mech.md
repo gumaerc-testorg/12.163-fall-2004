@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-163-surface-processes-and-landscape-evolution-fall-2004/e5a84144020da77e942dada80346e9e7_1_flow_mech.pdf
+file: /media/courses/12-163-surface-processes-and-landscape-evolution-fall-2004/e5a84144020da77e942dada80346e9e7_1_flow_mech.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 1_flow_mech.pdf
 uid: e5a84144-020d-a77e-942d-ada80346e9e7
