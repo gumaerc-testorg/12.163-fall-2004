@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d416de0f-15af-c9cd-c83e-11aea6b10318
 resourcetype: Document
 title: week14.pdf
 uid: 11a2b235-ae0c-ee09-3e7c-3685f272a782

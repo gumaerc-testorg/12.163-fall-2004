@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d416de0f-15af-c9cd-c83e-11aea6b10318
 resourcetype: Document
 title: 2_alluvial_channels.pdf
 uid: 8a9435c3-f9b4-39ab-f9b7-fb61fa596295

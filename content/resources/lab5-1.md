@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 30295d31-8b4d-977c-d50d-846d95e57497
 resourcetype: Document
 title: Lab5.pdf
 uid: c2806483-7608-47f4-3020-8b2e2e647bba

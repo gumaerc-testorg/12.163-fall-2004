@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d151e34c-e283-2e8b-feef-57e07bff6bc4
 resourcetype: Document
 title: flow_mech_exer.pdf
 uid: e888974a-f939-bfe2-6564-f78da1710cc9

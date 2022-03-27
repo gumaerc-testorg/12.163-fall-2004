@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d416de0f-15af-c9cd-c83e-11aea6b10318
 resourcetype: Document
 title: 9_mass_wasting.pdf
 uid: dcf603a0-1b3b-07ba-e5c3-daacc8637ea7

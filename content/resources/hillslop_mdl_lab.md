@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d151e34c-e283-2e8b-feef-57e07bff6bc4
 resourcetype: Document
 title: hillslop_mdl_lab.pdf
 uid: ac8f420d-6b26-3c77-697d-feea115e49ff

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 30295d31-8b4d-977c-d50d-846d95e57497
 resourcetype: Document
 title: Lab2B.pdf
 uid: fcc969c7-3196-1a6e-37ae-3353111ab60f

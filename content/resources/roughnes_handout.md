@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d151e34c-e283-2e8b-feef-57e07bff6bc4
 resourcetype: Document
 title: roughnes_handout.pdf
 uid: 4d42d42e-d43f-5d07-3817-b1b47e7e1dd5

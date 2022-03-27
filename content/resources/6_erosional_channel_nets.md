@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d416de0f-15af-c9cd-c83e-11aea6b10318
 resourcetype: Document
 title: 6_erosional_channel_nets.pdf
 uid: 3cc219cc-9c9c-9e50-cd72-aabdd376503c

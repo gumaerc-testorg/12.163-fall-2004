@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 30295d31-8b4d-977c-d50d-846d95e57497
 resourcetype: Document
 title: field_trip_reports.pdf
 uid: 0c7b66f8-15e8-3182-7e2b-02189098d0b0

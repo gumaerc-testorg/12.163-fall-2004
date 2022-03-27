@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d151e34c-e283-2e8b-feef-57e07bff6bc4
 resourcetype: Document
 title: dem_analy_lab5.pdf
 uid: b1801d61-2f32-640f-fd10-b098a76c199e

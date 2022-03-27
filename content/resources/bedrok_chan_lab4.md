@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d151e34c-e283-2e8b-feef-57e07bff6bc4
 resourcetype: Document
 title: bedrok_chan_lab4.pdf
 uid: 2f4f44b9-5396-3c16-faa2-0fdb569a9764

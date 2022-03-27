@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d416de0f-15af-c9cd-c83e-11aea6b10318
 resourcetype: Document
 title: 5_alluvial_river_profiles.pdf
 uid: 46e6a8d4-8765-6adf-c312-c6e9eed623cd
