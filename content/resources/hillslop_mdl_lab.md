@@ -9,6 +9,7 @@ file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/ac8f42
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 In this lab the student will learn to work with Matlab and use a simple numerical model to explore geological and climatic controls on hillslope forms. The student will use a Matlab script ("hillslope_profile3.m") for modeling hillslope evolution under imposed sets of processes and boundary conditions (these are the geological and climatic conditions).
-

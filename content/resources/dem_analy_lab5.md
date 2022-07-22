@@ -7,6 +7,7 @@ file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/b1801d
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lab exercise. In this lab the student will work with digital topographic and geologic maps with a set of DEM analysis tools (ArcGIS and Matlab scripts)to study the topography of the San Gabriel Range in southern California.
-

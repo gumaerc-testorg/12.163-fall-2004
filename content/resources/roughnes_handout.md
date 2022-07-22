@@ -5,6 +5,7 @@ file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/4d42d4
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Handout exploring a key topic of the lab exercises.
-

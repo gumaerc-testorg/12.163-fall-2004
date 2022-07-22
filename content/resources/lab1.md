@@ -10,6 +10,7 @@ file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/f7f7ea
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -24,4 +25,3 @@ video_metadata:
 ---
 First lab exercise / field trip. The overall objective of this trip is to give the student a crash course in geomorphic
 processes and landforms that will serve as a partial background motivation for this class ? we will introduce you to the range of problems and types of questions to which we will seek answers during the course.
-

@@ -4,6 +4,7 @@ description: Supplemental handout.
 file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/d7f30aa72fd257d670335ddcfa172e3f_fieldbook_advice.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Supplemental handout.
-

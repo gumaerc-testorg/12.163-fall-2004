@@ -7,6 +7,7 @@ file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/2f4f44
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lab exercise. In this lab the student will work with a Matlab script (detach_ftfs.m)to explore geological and climatic controls on channel profiles and fluvial relief.
-

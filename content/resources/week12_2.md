@@ -8,6 +8,7 @@ file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/6574d9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture presentation covering the following topics: River incision into bedrock, Bedload Abrasion (saltation) Plane Bed (smooth), Abrasion by Suspended Load, Critical Shear Stress and Flood Frequency Distribution, and Transport-Limited Incising Channels (Alluvial but Erosional).
-

@@ -8,6 +8,7 @@ file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/f5af48
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains topics like: Definitions: Transport Limited and Weathering Limited Landscapes, Introduction to Hillslope Hydrology, Hillslope Transport Processes, Mathematical Description of Processes, Soil Mantled Slopes: Steady State Forms, Soil Creep Mechanics: SSF Regime, and weathering and soil production.
-

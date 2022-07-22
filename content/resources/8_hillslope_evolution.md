@@ -8,6 +8,7 @@ file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/02cdc0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture presentation covering the following topics: Very long time scales, Short time scales (temporary), Plan-form Network Properties, Scaling laws drainage networks, Conservation of momentum, Empirical relation for channel width closure, and Conservation of mass of rock.
-

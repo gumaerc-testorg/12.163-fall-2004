@@ -4,6 +4,7 @@ description: ''
 file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/e564342d9bcdc7591eccf6226dc32dc5_Lab2C.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

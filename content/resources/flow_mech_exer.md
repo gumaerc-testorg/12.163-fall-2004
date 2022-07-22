@@ -7,6 +7,7 @@ file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/e88897
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This lab exercise is intended to give the student practice working with the relationships you have seen derived in class before you are asked to analyze field data from the Baker River.
-
