@@ -5,7 +5,7 @@ description: In this lab the student will learn to work with Matlab and use a si
   The student will use a Matlab script ("hillslope_profile3.m") for modeling hillslope
   evolution under imposed sets of processes and boundary conditions (these are the
   geological and climatic conditions).
-file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/ac8f420d6b263c77697dfeea115e49ff_hillslop_mdl_lab.pdf
+file: /ol-ocw-studio-app/courses/12-163-surface-processes-and-landscape-evolution-fall-2004/ac8f420d6b263c77697dfeea115e49ff_hillslop_mdl_lab.pdf
 file_size: 195316
 file_type: application/pdf
 learning_resource_types:

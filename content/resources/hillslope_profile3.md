@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting MATLAB? file to be used in lab.
-file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/751aa5fa3cf14b75295cd70ec237e5be_hillslope_profile3.m
+file: /ol-ocw-studio-app/courses/12-163-surface-processes-and-landscape-evolution-fall-2004/751aa5fa3cf14b75295cd70ec237e5be_hillslope_profile3.m
 file_size: 10481
 file_type: text/plain
 learning_resource_types:

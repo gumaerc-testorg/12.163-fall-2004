@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/b7c7bbf201adb0a628d50e05e14f7d55_week78_2.pdf
+file: /ol-ocw-studio-app/courses/12-163-surface-processes-and-landscape-evolution-fall-2004/b7c7bbf201adb0a628d50e05e14f7d55_week78_2.pdf
 file_size: 1195460
 file_type: application/pdf
 learning_resource_types:

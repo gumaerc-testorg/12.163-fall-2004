@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/8204a680f4b77149c0ce01d153097192_hillslope_models_lab.pdf
+file: /ol-ocw-studio-app/courses/12-163-surface-processes-and-landscape-evolution-fall-2004/8204a680f4b77149c0ce01d153097192_hillslope_models_lab.pdf
 file_size: 171969
 file_type: application/pdf
 learning_resource_types:
