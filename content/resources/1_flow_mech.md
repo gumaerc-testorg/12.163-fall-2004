@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /ol-ocw-studio-app/courses/12-163-surface-processes-and-landscape-evolution-fall-2004/e5a84144020da77e942dada80346e9e7_1_flow_mech.pdf
+file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/e5a84144020da77e942dada80346e9e7_1_flow_mech.pdf
 file_size: 693601
 file_type: application/pdf
 learning_resource_types:

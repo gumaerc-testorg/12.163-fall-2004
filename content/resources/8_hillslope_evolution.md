@@ -4,7 +4,7 @@ description: 'Lecture presentation covering the following topics: Very long time
   Short time scales (temporary), Plan-form Network Properties, Scaling laws drainage
   networks, Conservation of momentum, Empirical relation for channel width closure,
   and Conservation of mass of rock.'
-file: /ol-ocw-studio-app/courses/12-163-surface-processes-and-landscape-evolution-fall-2004/02cdc0e225e5d9015ff07c2bf4a2cc65_8_hillslope_evolution.pdf
+file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/02cdc0e225e5d9015ff07c2bf4a2cc65_8_hillslope_evolution.pdf
 file_size: 1353217
 file_type: application/pdf
 learning_resource_types:
