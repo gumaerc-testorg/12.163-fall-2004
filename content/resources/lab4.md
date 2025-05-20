@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/12-163-surface-processes-and-landscape-evolution-fall-2004/a2ee265dfff489839156a9796f1567f0_lab4.pdf
+file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/a2ee265dfff489839156a9796f1567f0_lab4.pdf
 file_size: 119981
 file_type: application/pdf
 learning_resource_types:
