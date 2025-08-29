@@ -5,7 +5,7 @@ file: /ol-ocw-studio-app/courses/12-163-surface-processes-and-landscape-evolutio
 file_size: 10481
 file_type: text/plain
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
