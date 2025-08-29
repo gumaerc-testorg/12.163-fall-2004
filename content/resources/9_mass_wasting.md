@@ -4,7 +4,7 @@ description: 'Lecture presentation covering the following topics: River incision
   bedrock, Bedload Abrasion (saltation) Plane Bed (smooth), Abrasion by Suspended
   Load, Critical Shear Stress and Flood Frequency Distribution, and Transport-Limited
   Incising Channels (Alluvial but Erosional).'
-file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/dcf603a01b3b07bae5c3daacc8637ea7_9_mass_wasting.pdf
+file: /ol-ocw-studio-app/courses/12-163-surface-processes-and-landscape-evolution-fall-2004/dcf603a01b3b07bae5c3daacc8637ea7_9_mass_wasting.pdf
 file_size: 1125340
 file_type: application/pdf
 learning_resource_types:
